@@ -17,8 +17,6 @@
 
 
 [Github]
-
-[https://github.com/esmeii]
-
-[https://github.com/rheejane]
+- https://github.com/esmeii
+- https://github.com/rheejane
 
