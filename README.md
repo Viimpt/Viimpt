@@ -10,5 +10,5 @@
 - Ewha.W Univ.
 
 
-- 기술 블로그 적기
+- 깃허브
 [https://github.com/esmeii]
