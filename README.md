@@ -14,7 +14,7 @@
 - Github
 [https://github.com/esmeii]
 
-
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/101385462/168222346-e99eb141-e4c3-45f8-9ae6-54f32af6375c.jpg">
 
 - 자기소개
 
