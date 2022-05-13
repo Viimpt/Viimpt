@@ -6,5 +6,9 @@
 
 
 - 자기소개
+#Eunseong Park
+- Ewha.W Univ.
+
 
 - 기술 블로그 적기
+[https://github.com/esmeii]
