@@ -8,7 +8,13 @@
 - 자기소개
 #Eunseong Park
 - Ewha.W Univ.
+- Computer Engineering 
+#Jane Rhee
+- Ewha.W Univ.
+- Computer Engineering
 
 
 - 깃허브
 [https://github.com/esmeii]
+[https://github.com/rheejane]
+
